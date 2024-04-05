@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@babel/traverse": "^7.24.1",
+    "espree": "^10.0.1"
+  }
+}
